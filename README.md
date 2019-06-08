@@ -1,4 +1,5 @@
-Install
+# Usage
+This is a project template for vue-cli. It is recommended to use npm 3+ for a more efficient dependency tree.
 
       $ npm install npm@latest -g
       $ npm install -g vue-cli
