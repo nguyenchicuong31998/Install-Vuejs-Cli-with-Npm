@@ -34,7 +34,7 @@ $ cd my-project
 $ npm install
 $ npm run dev
 ```
-## if it's can't npm run start. Please opent folder check it has install libary
+## if it can't npm run start. Please opent folder check it has install libary
 ``` bash
   $ npm install -g webpack-dev-server
   $ npm install -g webpack
