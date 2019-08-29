@@ -34,6 +34,9 @@ $ cd my-project
 $ npm install
 $ npm run dev
 ```
+## if it's can't npm run start. Please opent folder check it has install libary
+  $ npm install -g webpack-dev-server
+  $ npm install -g webpack
 
 This will scaffold the project using the `master` branch. If you wish to use the latest version of the webpack template, do the following instead:
 
