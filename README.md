@@ -29,6 +29,14 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It
   $ install vue version >= 3.0   vue install -g @vue/cli
   $ vue create my-project
 ```
+## install bootstrap, jquery, popper
+```bash
+    $ npm install bootstrap, jquery, popper.js
+   import into file main.js
+    $ import 'bootstrap/dist/css/bootstrap.min.cs'
+    $ global.jquery = jquery
+    $ global.$ = jquery
+```
 ``` bash
 # install vue-cli
 $ npm install npm@latest -g
